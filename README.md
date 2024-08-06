@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Learning Android development and advanced Java collections.<br>📧 Contact me through:  <a href="kashishag303@gmail.com" target="_blank"> </a> </p>
+<p align="left">📚 Learning Android development and advanced Java collections.<br>📧 Contact me through:  <a href="#" target="_blank"> kashishag303@gmail.com</a> </p>
 
 ###
 
