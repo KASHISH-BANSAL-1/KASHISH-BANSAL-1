@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👋 Hi, I'm Kashish Bansal, a full-stack developer with expertise in the MERN stack and Java. 🚀 Currently, I’m  diving into Android development. 💡 Passionate about learning and contributing to innovative tech solutions. 🌟<br>📧 Contact me through: <a>kashishag303@gmail.com</a></p>
+<p align="left">👋 Hi, I'm Kashish Bansal, a full-stack developer with expertise in the MERN stack and Java. 🚀 Currently, I’m  diving into Android development. 💡 Passionate about learning and contributing to innovative tech solutions. 🌟<br>📧 Contact me through: <a href="#">kashishag303@gmail.com</a></p>
 
 ###
 
@@ -77,10 +77,6 @@
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=KASHISH-BANSAL-1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/KASHISH-BANSAL-1/KASHISH-BANSAL-1/output/snake.svg" alt="Snake animation" />
 
 ###
 
