@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Code with:</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
@@ -46,7 +46,7 @@
 
 ###
 
-<h2 align="left">Connect me:</h2>
+<h2 align="left">Connect me through:</h2>
 
 ###
 
